@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/eletroposto-deploy/static/css/main.f24fa79d.chunk.css",
+    "main.js": "/eletroposto-deploy/static/js/main.4fd7ee5b.chunk.js",
+    "main.js.map": "/eletroposto-deploy/static/js/main.4fd7ee5b.chunk.js.map",
+    "runtime-main.js": "/eletroposto-deploy/static/js/runtime-main.6b12ddd8.js",
+    "runtime-main.js.map": "/eletroposto-deploy/static/js/runtime-main.6b12ddd8.js.map",
+    "static/js/2.d6360606.chunk.js": "/eletroposto-deploy/static/js/2.d6360606.chunk.js",
+    "static/js/2.d6360606.chunk.js.map": "/eletroposto-deploy/static/js/2.d6360606.chunk.js.map",
+    "index.html": "/eletroposto-deploy/index.html",
+    "precache-manifest.95847f76cb984bc41a7aca25e9846fc6.js": "/eletroposto-deploy/precache-manifest.95847f76cb984bc41a7aca25e9846fc6.js",
+    "service-worker.js": "/eletroposto-deploy/service-worker.js",
+    "static/css/main.f24fa79d.chunk.css.map": "/eletroposto-deploy/static/css/main.f24fa79d.chunk.css.map",
+    "static/js/2.d6360606.chunk.js.LICENSE.txt": "/eletroposto-deploy/static/js/2.d6360606.chunk.js.LICENSE.txt",
+    "static/media/reciclar.svg": "/eletroposto-deploy/static/media/reciclar.c6d5babe.svg",
+    "static/media/star.png": "/eletroposto-deploy/static/media/star.b6b1d1e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b12ddd8.js",
+    "static/js/2.d6360606.chunk.js",
+    "static/css/main.f24fa79d.chunk.css",
+    "static/js/main.4fd7ee5b.chunk.js"
+  ]
+}
