@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4513108d29de3aa809fceb48458051bf",
+    "revision": "12ded02d209ff4837091084bbdbb6dd8",
     "url": "/eletroposto-deploy/index.html"
   },
   {
-    "revision": "bda9e4e4cb13ce801cca",
-    "url": "/eletroposto-deploy/static/css/main.f24fa79d.chunk.css"
+    "revision": "af1519a4d47daf2e0382",
+    "url": "/eletroposto-deploy/static/css/main.13c685a6.chunk.css"
   },
   {
     "revision": "e861b0eda540e1ecbeec",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eletroposto-deploy/static/js/2.d6360606.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bda9e4e4cb13ce801cca",
-    "url": "/eletroposto-deploy/static/js/main.4fd7ee5b.chunk.js"
+    "revision": "af1519a4d47daf2e0382",
+    "url": "/eletroposto-deploy/static/js/main.41116c87.chunk.js"
   },
   {
     "revision": "8ca20055763a59db61b3",
